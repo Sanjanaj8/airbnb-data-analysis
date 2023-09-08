@@ -14,7 +14,10 @@ The project creates a variety of charts and visualizations to explore the data, 
 ## Some of the insights gained from the analysis include:
 - The most popular neighborhood for Airbnb rentals is Manhattan.
 - The average price of an Airbnb rental in Staten Island is approximately $309.
--  Airbnb listings and their prices drastically increased in the year 2022.
--   
+- Airbnb listings and their prices drastically increased in the year 2022.
+- Entire house or apartment is the most expensive rental which costs around $10k
+
+* Wordcloud created
+  
 ## Contact
-If you have any questions about this project, please contact me at [your email address].
+If you have any questions about this project, please contact me.
