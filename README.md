@@ -12,9 +12,9 @@ This project uses Python to analyze Airbnb data in New York City. The dataset in
 The project creates a variety of charts and visualizations to explore the data, including bar charts, pie charts, box plots, scatterplots, and heatmaps. A wordcloud of the most popular host names is also created.
 
 ## Some of the insights gained from the analysis include:
-
-- The most popular neighborhoods for Airbnb rentals are Manhattan, Brooklyn, and Queens.
-- The average price of an Airbnb rental in Manhattan is $275 per night.
-- The number of reviews that an Airbnb listing receives is affected by the price, location, and amenities offered.
-- Airbnb hosts who have multiple listings tend to have higher review scores.
-- The Airbnb market in New York City is growing rapidly, and the demand for rentals is expected to continue to increase in the future.
+- The most popular neighborhood for Airbnb rentals is Manhattan.
+- The average price of an Airbnb rental in Staten Island is approximately $309.
+-  Airbnb listings and their prices drastically increased in the year 2022.
+-   
+## Contact
+If you have any questions about this project, please contact me at [your email address].
